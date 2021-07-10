@@ -1,0 +1,7 @@
+﻿  DungeonKeeper.cpp
+d:\repos\programmingthings\csi-281\txtdungeonmaker\txtdungeonmaker\dungeonkeeper.cpp(211): warning C4101: 'startPoint': unreferenced local variable
+d:\repos\programmingthings\csi-281\txtdungeonmaker\txtdungeonmaker\dungeonkeeper.cpp(211): warning C4101: 'endPoint': unreferenced local variable
+  MainDungeonHQ.cpp
+d:\repos\programmingthings\csi-281\txtdungeonmaker\txtdungeonmaker\maindungeonhq.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  TxtDungeonMaker.vcxproj -> D:\Repos\ProgrammingThings\CSI-281\TxtDungeonMaker\Debug\TxtDungeonMaker.exe
